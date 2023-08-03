@@ -1,9 +1,22 @@
 ---
 title: "People Policies"
+date: "2023-08-03"
 ---
 
-\- Leadership Team
+### Membership
 
- - Membership
+### Leadership
 
--   Committees
+### Committees
+
+#### Project Monitoring
+
+Project monitoring
+
+At least one person from each ManyLanguage project will be designated as the the project monitor. The project monitor will attend
+
+#### Ad Hoc Committees
+
+Ad hoc committees will be formed when a specific directive or need arises within the community. Ad hoc committees be created by first polling the membership for interest in joining the committee
+
+-   

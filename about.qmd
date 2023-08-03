@@ -2,6 +2,12 @@
 title: "About ManyLanguages"
 ---
 
-ManyLanguages is a globally distributed network of language science laboratories that coordinates data collection for democratically selected studies.
+### **Core Values**
 
-Our mission is to facilitate the accumulation of reliable and generalizable evidence across the language sciences. This challenge cannot be adequately met by a single researcher or small teams. Instead, we attempt to meet this challenge with a distributed laboratory network that is ongoing (as opposed to time or task limited), diverse (both in terms of human languages, participants, participating researchers, and projects), and inclusive (we welcome ideas, contributions, study proposals, or other input from anyone in the language sciences).
+-   Diversity and inclusion: Language research is a diverse field that intersects with numerous branches of qualitative and quantitative science. We encourage scientists from all fields to participate in ManyLanguages and support diversity in the the types of projects, languages, participants, and researchers in our community.
+
+-   Transparency: We engage in transparency on all policies, procedures, and projects. Each project will include a pre-registered plan including appropriate hypothesis, methods, and analysis for that specific research area. All policies are posted on our website for at-large review.
+
+-   Openness: We believe that the languages sciences can only benefit from open sharing of research. When appropriate, data, code, materials, preprints, etc. will be shared in an open and reusable format. We strive to make these research outputs FAIR (findable, accessible, interoperable, and reusable) by posting to open source platforms and organizing information. Given ethical concerns, we will strive to create synthetic or otherwise suitably anonymous research outputs.
+
+-   Responsiveness: We expect a diversity of ideas and backgrounds within the ManyLanguages community. We will be responsive to criticism, challenges of beliefs, and other feedback within the guidelines of our code of conduct. Policies and procedures will be updated based on discussion and feedback from members.

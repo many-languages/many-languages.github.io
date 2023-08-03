@@ -9,13 +9,15 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
       - studies.qmd
       - text: "Policies"
         menu: 
         - cocpolicy.qmd
         - peoplepolicy.qmd
         - studypolicy.qmd
+        - authorpolicy.qmd
     tools:
         - icon: github
           href:  https://github.com/many-languages/many-languages.github.io

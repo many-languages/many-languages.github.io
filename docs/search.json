@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "ManyLanguages",
     "section": "",
-    "text": "Here’s our website and the information on it."
+    "text": "ManyLanguages is a globally distributed network of language science laboratories that coordinates data collection for democratically selected studies.\nOur mission is to facilitate the connection between language science researchers to diversify the languages, participants, researchers, and projects represented in the language sciences. We will facilitate the collection of evidence across the language sciences by supporting a distributed laboratory network that is ongoing, diverse, and inclusive. We embrace open science principles by sharing collected data, materials, translations, and other research outputs from the network. We strive to engage research across a broad spectrum of language sciences creating an inclusive and diverse environment for ideas, investigation, and participation."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About ManyLanguages",
     "section": "",
-    "text": "Here’s an about us page."
+    "text": "Core Values\n\nDiversity and inclusion: Language research is a diverse field that intersects with numerous branches of qualitative and quantitative science. We encourage scientists from all fields to participate in ManyLanguages and support diversity in the the types of projects, languages, participants, and researchers in our community.\nTransparency: We engage in transparency on all policies, procedures, and projects. Each project will include a pre-registered plan including appropriate hypothesis, methods, and analysis for that specific research area. All policies are posted on our website for at-large review.\nOpenness: We believe that the languages sciences can only benefit from open sharing of research. When appropriate, data, code, materials, preprints, etc. will be shared in an open and reusable format. We strive to make these research outputs FAIR (findable, accessible, interoperable, and reusable) by posting to open source platforms and organizing information. Given ethical concerns, we will strive to create synthetic or otherwise suitably anonymous research outputs.\nResponsiveness: We expect a diversity of ideas and backgrounds within the ManyLanguages community. We will be responsive to criticism, challenges of beliefs, and other feedback within the guidelines of our code of conduct. Policies and procedures will be updated based on discussion and feedback from members."
   },
   {
     "objectID": "cocpolicy.html",
@@ -25,20 +25,27 @@
     "href": "peoplepolicy.html",
     "title": "People Policies",
     "section": "",
-    "text": "list the studies!"
+    "text": "Membership\n\n\nLeadership\n\n\nCommittees\n\nProject Monitoring\nProject monitoring\nAt least one person from each ManyLanguage project will be designated as the the project monitor. The project monitor will attend\n\n\nAd Hoc Committees\nAd hoc committees will be formed when a specific directive or need arises within the community. Ad hoc committees be created by first polling the membership for interest in joining the committee"
   },
   {
     "objectID": "studies.html",
     "href": "studies.html",
     "title": "Studies",
     "section": "",
-    "text": "list the studies!"
+    "text": "We are currently under development. You can check out the Study Policies to familiarize yourself with how we plan to select and support studies."
   },
   {
     "objectID": "studypolicy.html",
     "href": "studypolicy.html",
     "title": "Study Policies",
     "section": "",
-    "text": "list the studies!"
+    "text": "Call for Studies\n\n\nStudy Selection\n\n\nStudy Requirements\n\nCollaboration Agreements\n\n\nOpen Science Principles\n\n\n\nStudy Support"
+  },
+  {
+    "objectID": "authorpolicy.html",
+    "href": "authorpolicy.html",
+    "title": "Authorship Policies",
+    "section": "",
+    "text": "Collaboration Agreements\nAll studies will include a collaboration agreement with the following sections (non-exhaustive):\n\nAnticipated products: a list of potential manuscripts, outputs, or other expected outcomes.\nRoles and responsibilities: an outline of what the expected contributions may include, who may be responsible for them, and how they are credited.\nAuthorship guidelines: Include minimum requirements for authorship based on credit information, information on the proposed order of authors, information on authorship for secondary outputs (i.e., if a new manuscript idea is formed during the project, how will / can individuals become involved?)\nDissenting opinions: a statement on how dissenting opinions on findings, disagreements, and conflict management.\nConduct: refer to the code of conduct and any specific policies based on the study. Include relevant journal policies.\nChanges: an explicit section for updates and changes to the policy.\n\n\n\nCRediT\nWe will use CRediT guidelines to establish roles and denote the contributions for each member of a project. Each author must usually complete at least two CRediT categories for inclusion on a manuscript for publication. Journal policies often require that all authors must include Writing - Review & Editing. The definitions for CRediT are purposely vague in order to be flexible. However, we provide a table below that gives a general idea of how each project may define contributions for projects (taken from here and edited).\n\n\n\n\n\n\n\nContributor Role\nRole Definition\n\n\n\n\nConceptualization\nLeading, documenting, and summarizing discussions that lead to formulation or evolution of overarching research goals and aims.\n\n\nData Curation\nManagement activities to merge and maintain research data (including software code, where it is necessary for interpreting the data itself) in an online repository for initial use and later reuse.\n\n\nFormal Analysis\nApplication of formal analysis techniques to analyse or synthesize study data, provided these analyses are included in the paper or supplementary materials.\n\n\nFunding Acquisition\nAcquisition of the financial support for the project leading to this publication.\n\n\nInvestigation\nConducting a research and investigation process. This process may include data collection from individuals, collecting language samples from other resources, or other applications depending on the study.\n\n\nMethodology\nDevelopment or design of methodology; creation of models. Writing/designing the pre-registration.\n\n\nProject Administration\nManagement and coordination responsibility for the research activity planning and execution. Preparing and disseminating protocols and coding instructions. Ensuring that deadlines are met.\n\n\nResources\nDeveloping or providing critical instrumentation or equipment to institutions other than one’s own. Providing translation or other services for materials, stimuli, etc.\n\n\nSoftware\nProgramming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.\n\n\nValidation\nVerification of the overall replication/reproducibility of results/experiments and other research outputs.\n\n\nVisualization\nPreparation, creation and/or presentation of the published work, specifically visualization/data presentation, provided these visualizations are included in the paper or supplementary materials.\n\n\nWriting\nPreparation and creation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages.\n\n\n\n\n\nConsortium Authorship\nWhen possible, we believe that each person should be listed explicitly on the manuscript due to tenure, promotion, and cultural policies that disincentivize consortium publications. If lead team authors wish to publish in a journal that has restrictive author policies, the collaboration team should be notified of this policy as soon as possible, so they may decide on their desired level of contribution."
   }
 ]
