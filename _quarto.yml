@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    logo: "pic/manylang.png"
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - studies.qmd
+      - text: "Policies"
+        menu: 
+        - cocpolicy.qmd
+        - peoplepolicy.qmd
+        - studypolicy.qmd
+    tools:
+        - icon: github
+          href:  https://github.com/many-languages/many-languages.github.io
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+editor: visual
+
