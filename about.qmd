@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "About ManyLanguages"
 ---
 
-Here's an about us page.
+ManyLanguages is a globally distributed network of language science laboratories that coordinates data collection for democratically selected studies.
+
+Our mission is to facilitate the accumulation of reliable and generalizable evidence across the language sciences. This challenge cannot be adequately met by a single researcher or small teams. Instead, we attempt to meet this challenge with a distributed laboratory network that is ongoing (as opposed to time or task limited), diverse (both in terms of human languages, participants, participating researchers, and projects), and inclusive (we welcome ideas, contributions, study proposals, or other input from anyone in the language sciences).
