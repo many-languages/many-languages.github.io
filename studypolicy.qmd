@@ -12,4 +12,10 @@ title: "Study Policies"
 
 #### Open Science Principles 
 
+-   Preregistration
+
+-   Preprint
+
+-   
+
 ### Study Support

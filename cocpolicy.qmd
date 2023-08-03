@@ -133,9 +133,9 @@ Possible responses may include: 
 
 -   A public announcement of an incident, ideally in the same venue that the violation occurred (i.e., on the listserv for a listserv violation, GitHub for a GitHub violation, etc.). The Review Group may choose to publish this message elsewhere to create a permanent public record. 
 
--   An imposed suspension (i.e., asking someone to \"take a week off\" from a listserv or the ManyLanguages GitHub or OSF repositories or Canvas platform). The Review Group chair will communicate this suspension to the individual(s). They\'ll be asked to take this suspension voluntarily, but if they do not agree then a temporary ban may be imposed to enforce this vacation. 
+-   An imposed suspension (i.e., asking someone to \"take a week off\" from a listserv or the ManyLanguages GitHub or OSF repositories or membership portal platform). The Review Group chair will communicate this suspension to the individual(s). They\'ll be asked to take this suspension voluntarily, but if they do not agree then a temporary ban may be imposed to enforce this vacation. 
 
--   A permanent or temporary ban from some or all ManyLanguages spaces (listservs, GitHub, OSF groups, Canvas, in-person events including workshops, etc.). The Leadership Team will maintain records of all such bans so that they may be reviewed in the future, extended to new ManyLanguages communication forums, or otherwise maintained. 
+-   A permanent or temporary ban from some or all ManyLanguages spaces (listservs, GitHub, OSF groups, membership portal, in-person events including workshops, etc.). The Leadership Team will maintain records of all such bans so that they may be reviewed in the future, extended to new ManyLanguages communication forums, or otherwise maintained. 
 
 -   Assistance to the complainant with a report to other bodies, for example, institutional offices or appropriate law enforcement agencies. 
 
