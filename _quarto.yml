@@ -18,6 +18,7 @@ website:
         - peoplepolicy.qmd
         - studypolicy.qmd
         - authorpolicy.qmd
+        - partners.qmd
     tools:
         - icon: github
           href:  https://github.com/many-languages/many-languages.github.io
