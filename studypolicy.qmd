@@ -3,11 +3,11 @@ title: "Study Policies"
 date: "2023-08-03"
 ---
 
-### Call for Studies
+## Call for Studies
 
 We will advertise calls for studies on a yearly basis. The call for studies will be sent to the network for submissions, as coordinated by the study selection team. A form will be posted when the call for studies is open, but generally the submission guidelines will include a 10-15 page proposal structured as a small preregistration plan/manuscript. Projects that are small in scope (i.e., only a small number of network members will be recruited or interested) may be reviewed on a quarterly basis.
 
-### Study Selection
+## Study Selection
 
 Study selection will be based on a few factors:
 
@@ -19,38 +19,40 @@ Study selection will be based on a few factors:
 
 -   Proposal quality: Proposals will be assessed for quality, in the preparation of the proposal, and clarity of the methods. We will receive feedback about methodological and theoretical rigor (i.e., it appears the study is sound versus disagreements in literature/interpretation).
 
-Studies will be given an 1) acceptance, 2) accept with minor revisions, 3) revise and resubmit, 4) decline with encouragement to revision and resubmit in the next round. While we likely cannot run every project, but we believe that all submitters should receive feedback and encouragement to complete their project. We reserve the right to reject studies that are inappropriate in content.
+Studies will be given an 1) acceptance, 2) accept with minor revisions, 3) revise and resubmit, 4) decline with encouragement to revise and resubmit in the next round. While we likely cannot run every project, we believe that all submitters should receive feedback and encouragement to complete their project. We reserve the right to reject studies that are inappropriate in content.
 
-### Study Requirements
+## Study Requirements
 
-#### Study Leadership Team
+### Study Leadership Team
 
-The study leadership team will consist of proposing authors, a designated project monitor, and others who have the necessary skill sets for the project requirements. For example, a team may include a translation coordinator, ethics coordinator, or other specialized skill sets (see below). This team will be responsible for the project, communicating with the team members and leadership team, manuscript production and submission, and coordinating with relevant committees. The study leadership team should meet at least monthly (and likely more) to ensure adequate progress towards completion.
+The study leadership team will consist of proposing authors, a designated project monitor, and others who have the necessary skill sets for the project requirements. For example, a team may include a translation coordinator, ethics coordinator, or other specialised skill sets (see below).  Particular attention should be paid to how the scope of the project can be extended to typologically different languages and different cultures which might require involving typologists and experts on particular languages/language families. This team will be responsible for the project, communicating with the team members and leadership team, manuscript production and submission, and coordinating with relevant committees. The study leadership team should meet at least monthly (and likely more) to ensure adequate progress towards completion.
 
-#### Good Faith Effort
+### Good Faith Effort
 
 The study leadership team will ensure a good faith effort to complete the project as intended. Network members will likely donate their time and resources, and we want to provide them with the incentives promised (i.e., usually authorship). If the study leadership team no longer wishes to complete the project, they will appoint personnel to take over the project and update the collaboration agreement. If the team wishes to stop the project before network members have been recruited, the team may withdraw from the study selection process.
 
-#### Collaboration Agreements
+### Collaboration Agreements
 
-All projects will have a collaboration agreement as outline in our authorship policies.
+All projects will have a collaboration agreement as outlined in our authorship policies.
 
-#### Open Science Principles
+### Open Science Principles
 
--   Preregistration: All studies will include a preregistered plan of methods, potential analyses, and other facets determined before the start of the study. Language science is a broad field, and these plans will look different for each proposed project.
+-   **Preregistration**: All studies will include a pre-registered plan of the general study to share with collaborators and register. Experimental studies will include methods, potential analyses, and other facets determined before the start of the study. Exploratory studies may define the scope and goals of the project as an open-ended registration. Language science is a broad field, and these plans will look different for each proposed project (these are just examples)
 
--   Preprint: A preprint of the main manuscript with preregistered plans will be posted before the study starts. We also suggest registered report formats and submissions.
+-   **Preprint**: A preprint of the main manuscript with pre-registered plans will be posted before the study starts. We also suggest registered report formats and submissions.
 
--   Deviation Guide: All studies will include a guide that indicates deviations from the preregistered plan. This information can be hard to track, and we suggest maintaining a time-log documenting any deviation as soon as it is decided alongside the reasoning for said deviation.
+-   **Deviation Guide:** All studies will include a guide that indicates deviations from the pre-registered plan when appropriate (i.e., exploratory studies may not need this component). This information can be hard to track, and we suggest maintaining a time-log documenting any deviation or exploratory path as soon as it is decided alongside the reasoning for said deviation.
 
--   CRediT: All studies will provide CRediT taxonomy related information.
+-   **CRediT**: All studies will provide CRediT taxonomy related information with a map of how each contribution was assigned to CRediT labels.
 
--   FAIR Outputs: All studies will provide all sharable outputs from the study. This information includes ethics review documents, materials, translations, data, code, analyses, manuscripts, and more. All outputs will include metadata and information on who created each output.
+-   F**AIR Outputs**: All studies will provide all sharable outputs from the study. This information includes ethics review documents, materials, translations, data, code, analyses, manuscripts, and more. All outputs will include metadata and information on who created each output.
 
-### Study Support
+## Study Support
 
--   We recommend forming a study leadership team that is based on the skills required to adequately complete the project. The leadership team and study review committees will assist in filling those roles if no one from the study leadership team includes those skill sets. We recommend including members from the community (i.e., not all from one institution) to diversify idea viewpoint and networks.
+-   We recommend forming a study leadership team that is based on the skills required to adequately complete the project. The leadership team and study review committees will assist in filling those roles if no one from the study leadership team includes those skill sets. We recommend including members from the community (i.e., not all from one institution) to diversify idea viewpoints and networks.
 
--   A pre- and post-study completion review team will engage with the leadership team of the study. The roles of this team are outline on the people policies page. They will ensure adherence to ManyLanguages policies and assist in sharing of materials, coordination of outputs, etc.
+-   A pre- and post-study completion review team will engage with the leadership team of the study. The roles of this team are outlined on the people policies page. They will ensure adherence to ManyLanguages policies and assist in sharing of materials, coordination of outputs, etc.
 
--   We will provide template and guidelines on how to engage and successfully complete a large-scale project.
+-   We will provide templates and guidelines on how to engage and successfully complete a large-scale project.
+
+Please use this [form](https://forms.gle/9mHjddrMFGzJzVLa8) to give feedback to the community about our policies, website, or any other thoughts.

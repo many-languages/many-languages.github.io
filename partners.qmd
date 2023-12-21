@@ -2,7 +2,7 @@
 title: "Partnerships"
 ---
 
-### Psychological Science Accelerator
+## Psychological Science Accelerator
 
 ManyLanguages has formed a partnership with the [Psychological Science Accelerator](psysciacc.org) in support of big team science. The PSA is a leading organization in big team science for psychology - and most of the policies for ManyLanguages are based on the PSA's successes and lessons learned. Our partnership consists of:
 

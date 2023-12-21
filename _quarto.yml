@@ -11,7 +11,17 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - studies.qmd
+      - href: studies.qmd
+        text: Studies
+      - href: https://forms.gle/9mHjddrMFGzJzVLa8
+        text: Feedback
+      - text: Membership
+        menu: 
+          - href: join.qmd
+            text: Join and Help
+          - href: https://canvas.psysciacc.org
+            text: Canvas
+
       - text: "Policies"
         menu: 
         - cocpolicy.qmd

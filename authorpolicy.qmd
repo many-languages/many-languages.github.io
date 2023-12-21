@@ -3,7 +3,7 @@ title: "Authorship Policies"
 date: "2023-08-03"
 ---
 
-### Collaboration Agreements
+## Collaboration Agreements
 
 All studies will include a collaboration agreement with the following sections (non-exhaustive):
 
@@ -19,25 +19,25 @@ All studies will include a collaboration agreement with the following sections (
 
 -   Changes: an explicit section for updates and changes to the policy.
 
-### CRediT
+## CRediT
 
 We will use CRediT guidelines to establish roles and denote the contributions for each member of a project. Each author must usually complete at least **two** CRediT categories for inclusion on a manuscript for publication. Journal policies often require that all authors must include Writing - Review & Editing. The definitions for CRediT are purposely vague in order to be flexible. However, we provide a table below that gives a general idea of how each project may define contributions for projects (taken from [here](https://manyprimates.github.io/authorship/) and edited).
 
-| Contributor Role       | Role Definition                                                                                                                                                                                              |
-|--------------------|----------------------------------------------------|
-| Conceptualization      | Leading, documenting, and summarizing discussions that lead to formulation or evolution of overarching research goals and aims.                                                                              |
-| Data Curation          | Management activities to merge and maintain research data (including software code, where it is necessary for interpreting the data itself) in an online repository for initial use and later reuse.         |
-| Formal Analysis        | Application of formal analysis techniques to analyse or synthesize study data, provided these analyses are included in the paper or supplementary materials.                                                 |
-| Funding Acquisition    | Acquisition of the financial support for the project leading to this publication.                                                                                                                            |
-| Investigation          | Conducting a research and investigation process. This process may include data collection from individuals, collecting language samples from other resources, or other applications depending on the study.  |
-| Methodology            | Development or design of methodology; creation of models. Writing/designing the pre-registration.                                                                                                            |
-| Project Administration | Management and coordination responsibility for the research activity planning and execution. Preparing and disseminating protocols and coding instructions. Ensuring that deadlines are met.                 |
-| Resources              | Developing or providing critical instrumentation or equipment to institutions other than one's own. Providing translation or other services for materials, stimuli, etc.                                     |
-| Software               | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.                                          |
-| Validation             | Verification of the overall replication/reproducibility of results/experiments and other research outputs.                                                                                                   |
-| Visualization          | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation, provided these visualizations are included in the paper or supplementary materials.           |
-| Writing                | Preparation and creation of the published work by those from the original research group, specifically critical review, commentary or revision -- including pre- or post-publication stages.                 |
+| Contributor Role       | Role Definition                                                                                                                                                                                             |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Conceptualization      | Leading, documenting, and summarising discussions that lead to formulation or evolution of overarching research goals and aims.                                                                             |
+| Data Curation          | Management activities to merge and maintain research data (including software code, where it is necessary for interpreting the data itself) in an online repository for initial use and later reuse.        |
+| Formal Analysis        | Application of formal analysis techniques to analyse or synthesize study data, provided these analyses are included in the paper or supplementary materials.                                                |
+| Funding Acquisition    | Acquisition of the financial support for the project leading to this publication.                                                                                                                           |
+| Investigation          | Conducting a research and investigation process. This process may include data collection from individuals, collecting language samples from other resources, or other applications depending on the study. |
+| Methodology            | Development or design of methodology; creation of models. Writing/designing the pre-registration.                                                                                                           |
+| Project Administration | Management and coordination responsibility for the research activity planning and execution. Preparing and disseminating protocols and coding instructions. Ensuring that deadlines are met.                |
+| Resources              | Developing or providing critical instrumentation or equipment to institutions other than one's own. Providing translation or other services for materials, stimuli, etc.                                    |
+| Software               | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.                                         |
+| Validation             | Verification of the overall replication/reproducibility of results/experiments and other research outputs.                                                                                                  |
+| Visualisation          | Preparation, creation and/or presentation of the published work, specifically visualisation/data presentation, provided these visualisations are included in the paper or supplementary materials.          |
+| Writing                | Preparation and creation of the published work by those from the original research group, specifically critical review, commentary or revision -- including pre- or post-publication stages.                |
 
-### Consortium Authorship
+## Consortium Authorship
 
-When possible, we believe that each person should be listed explicitly on the manuscript due to tenure, promotion, and cultural policies that disincentivize consortium publications. If lead team authors wish to publish in a journal that has restrictive author policies, the collaboration team should be notified of this policy as soon as possible, so they may decide on their desired level of contribution.
+When possible, we believe that each person should be listed explicitly on the manuscript due to tenure, promotion, and cultural policies that disincentivise consortium publications. If lead team authors wish to publish in a journal that has restrictive author policies, the collaboration team should be notified of this policy as soon as possible, so they may decide on their desired level of contribution.

@@ -1,0 +1,29 @@
+---
+title: "Join Many Languages"
+---
+
+To register for our membership website, please visit <https://member.psysciacc.org/>. You can register for the Psychological Science Accelerator and/or ManyLanguages, as we use the same Canvas system to communicate with members and track studies.
+
+## Registration Steps
+
+When you register, the following will happen:
+
+-   You will get an email from the PSA webmaster thanking you for registering.
+
+-   You will get an email from psa.canvas to register for Canvas.
+
+-   You will get an email from psa.canvas to accept your invitation to the "course".
+
+-   If you miss one of these emails or it goes to spam, you can go directly to [https://canvas.psysciacc.org/](https://canvas.psysciacc.org/login/canvas), click forgot password, and use that system to set up the password for your first time logging in. Please note: it takes a few days to put you into the canvas system. An actual person has to enter this data, it's not automatic.
+
+-   Email <a href="mailto:many-languages@googlegroups.com">many-languages at googlegroups dot com</a> if you have questions.
+
+## Canvas Information
+
+-   Canvas is a learning management system. If you think about research projects, they often have tasks much like a class. So, we use this system to assign you tasks (quizzes/assignments), keep track of your progress (gradebook), and send you updates/information about the study (announcements). We also use this system to submit studies and vote on policies.
+
+-   You can learn more from the <a href="https://community.canvaslms.com/t5/Student-Guide/tkb-p/student">Canvas Student Guide</a>.
+
+-   Tutorial Videos for Canvas:
+
+    -   Coming soon!
