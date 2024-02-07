@@ -26,4 +26,42 @@ When you register, the following will happen:
 
 -   Tutorial Videos for Canvas:
 
-    -   Coming soon!
+    -   How to Register
+
+        <video width="300" height="150" controls="controls">
+
+        <source src="https://github.com/psysciacc/psa-videos/raw/main/canvas_register.mp4" type="video/mp4" />
+
+        </video>
+
+    -   Change Password
+
+        <video width="300" height="150" controls="controls">
+
+        <source src="https://github.com/psysciacc/psa-videos/raw/main/canvas_login_password.mp4" type="video/mp4" />
+
+        </video>
+
+    -   Notifications and Settings
+
+        <video width="300" height="150" controls="controls">
+
+        <source src="https://github.com/psysciacc/psa-videos/raw/main/canvas_notifications_settings.mp4" type="video/mp4" />
+
+        </video>
+
+    -   Project Overview and Submitting "Assignments"
+
+        <video width="300" height="150" controls="controls">
+
+        <source src="https://github.com/psysciacc/psa-videos/raw/main/canvas_projects_assignments.mp4" type="video/mp4" />
+
+        </video>
+
+    -   Canvas Groups
+
+        <video width="300" height="150" controls="controls">
+
+        <source src="https://github.com/psysciacc/psa-videos/raw/main/canvas_groups.mp4" type="video/mp4" />
+
+        </video>

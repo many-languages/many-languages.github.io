@@ -74,3 +74,9 @@ Ad hoc committees will be formed when a specific directive or need arises within
 -   Post-study review: When a study is completed (i.e., a manuscript will be sent for publication), a post-study review team will be created. This team will coordinate the posting of FAIR materials, data, and other outputs into the ManyLanguages format on our GitHub page. A team member will provide code/analysis-check to ensure reproducibility when appropriate. Given that individual studies may result in multiple manuscripts, this process will be repeated for each manuscript.
 
 Please use this [form](https://forms.gle/9mHjddrMFGzJzVLa8) to give feedback to the community about our policies, website, or any other thoughts.
+
+## Study Proposal and Completion
+
+```{r echo = FALSE}
+knitr::include_graphics("pic/many_languages.png")
+```

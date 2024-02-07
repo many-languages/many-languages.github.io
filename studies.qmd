@@ -3,3 +3,9 @@ title: "Studies"
 ---
 
 We are currently under development. You can check out the Study Policies to familiarize yourself with how we plan to select and support studies.
+
+## Study Proposal and Completion
+
+```{r echo = FALSE}
+knitr::include_graphics("pic/many_languages.png")
+```

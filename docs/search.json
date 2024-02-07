@@ -74,7 +74,7 @@
     "href": "join.html#canvas-information",
     "title": "Join Many Languages",
     "section": "Canvas Information",
-    "text": "Canvas Information\n\nCanvas is a learning management system. If you think about research projects, they often have tasks much like a class. So, we use this system to assign you tasks (quizzes/assignments), keep track of your progress (gradebook), and send you updates/information about the study (announcements). We also use this system to submit studies and vote on policies.\nYou can learn more from the Canvas Student Guide.\nTutorial Videos for Canvas:\n\nComing soon!"
+    "text": "Canvas Information\n\nCanvas is a learning management system. If you think about research projects, they often have tasks much like a class. So, we use this system to assign you tasks (quizzes/assignments), keep track of your progress (gradebook), and send you updates/information about the study (announcements). We also use this system to submit studies and vote on policies.\nYou can learn more from the Canvas Student Guide.\nTutorial Videos for Canvas:\n\nHow to Register\n\n\n\nChange Password\n\n\n\nNotifications and Settings\n\n\n\nProject Overview and Submitting “Assignments”\n\n\n\nCanvas Groups"
   },
   {
     "objectID": "about.html#core-values",
@@ -201,5 +201,26 @@
     "title": "People Policies",
     "section": "Committees",
     "text": "Committees\n\nProject Monitoring\nThe project monitoring (PM) committee will be composed of at least one person from each of the ManyLanguage projects. This person can be designated by the project lead team or appointed by the leadership team. The PM committee will meet monthly to discuss project status, timelines, goals, issues, and other discussions necessary to ensure timely and appropriately completed projects. The PM is generally responsible for relaying the project’s progress and for adhering to policies for ManyLanguages projects. Other PM tasks may include:\n\nAll lead team duties should be defined at the beginning of the project with coordination by the PM (i.e., who will answer emails? Who is in charge of data? etc.). These duties may change throughout the project but a clear definition will help PM and lead team members with role ambiguity.\nCoordinating and attending meetings for the project they are working with.\nTaking meeting notes, coordinating who will complete required tasks, and following up on those tasks.\nOrganising and maintaining CRediT information.\n\n\n\nAd Hoc Committees\nAd hoc committees will be formed when a specific directive or need arises within the community. Ad hoc committees are filled by first polling the membership for interest in joining the committee. If this process does not fill the number of persons necessary for that committee, the leadership team will reach out to individuals based on the membership survey to help find members for the roles. Specific ad hoc committees we expect include:\n\nCode of conduct violation review: This committee will be tasked with reviewing code of conduct violations and following guidelines presented in that policy.\nStudy selection: This committee will organise the call for studies, coordinate the receipt of submissions for studies, solicit and coordinate the review of studies, send out the studies for network voting, and organise the information provided by the reviewers and network. The study selection committee will provide recommendations on the studies to the leadership team for selection.\nPre-study review: A study review team will be created before the study is launched to review all materials, policies, and other necessities that are in place before the network is notified of the study. They will ensure adherence to policies for studies (for example, posted preprint, preregistered plans, collaboration agreement, etc.). The pre-study review team will provide feedback and assistance in the potential ethics process.\nPost-study review: When a study is completed (i.e., a manuscript will be sent for publication), a post-study review team will be created. This team will coordinate the posting of FAIR materials, data, and other outputs into the ManyLanguages format on our GitHub page. A team member will provide code/analysis-check to ensure reproducibility when appropriate. Given that individual studies may result in multiple manuscripts, this process will be repeated for each manuscript.\n\nPlease use this form to give feedback to the community about our policies, website, or any other thoughts."
+  },
+  {
+    "objectID": "peoplepolicy.html#study-proposal-and-completion",
+    "href": "peoplepolicy.html#study-proposal-and-completion",
+    "title": "People Policies",
+    "section": "Study Proposal and Completion",
+    "text": "Study Proposal and Completion"
+  },
+  {
+    "objectID": "studies.html#study-proposal-and-completion",
+    "href": "studies.html#study-proposal-and-completion",
+    "title": "Studies",
+    "section": "Study Proposal and Completion",
+    "text": "Study Proposal and Completion"
+  },
+  {
+    "objectID": "studypolicy.html#study-proposal-and-completion",
+    "href": "studypolicy.html#study-proposal-and-completion",
+    "title": "Study Policies",
+    "section": "Study Proposal and Completion",
+    "text": "Study Proposal and Completion"
   }
 ]

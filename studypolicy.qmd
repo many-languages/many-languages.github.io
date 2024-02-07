@@ -56,3 +56,9 @@ All projects will have a collaboration agreement as outlined in our authorship p
 -   We will provide templates and guidelines on how to engage and successfully complete a large-scale project.
 
 Please use this [form](https://forms.gle/9mHjddrMFGzJzVLa8) to give feedback to the community about our policies, website, or any other thoughts.
+
+## Study Proposal and Completion
+
+```{r echo = FALSE}
+knitr::include_graphics("pic/many_languages.png")
+```
