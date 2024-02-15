@@ -1,34 +1,34 @@
-<mxfile host="Electron" modified="2024-02-07T15:58:37.018Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="I-QjNyOjhBf-c3YRdIHp" version="23.0.2" type="device">
+<mxfile host="Electron" modified="2024-02-15T22:27:32.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="b_ahH13wzvf-nG_FmHyh" version="23.0.2" type="device">
   <diagram name="Page-1" id="dipRu0zZ1uc3jC86xOCI">
     <mxGraphModel dx="1026" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LExHXPBAgsskgPLylYrO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-1" target="LExHXPBAgsskgPLylYrO-2">
+        <mxCell id="LExHXPBAgsskgPLylYrO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-1" target="LExHXPBAgsskgPLylYrO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-1" value="Expression&lt;br&gt;of&amp;nbsp;&lt;br&gt;Interest" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-1" value="Expression&lt;br&gt;of&amp;nbsp;&lt;br&gt;Interest" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AEC677;" parent="1" vertex="1">
           <mxGeometry x="10" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-5" value="Revisions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-2" target="LExHXPBAgsskgPLylYrO-4">
+        <mxCell id="LExHXPBAgsskgPLylYrO-5" value="Revisions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-2" target="LExHXPBAgsskgPLylYrO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-7" value="Selected" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-2" target="LExHXPBAgsskgPLylYrO-6">
+        <mxCell id="LExHXPBAgsskgPLylYrO-7" value="Selected" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-2" target="LExHXPBAgsskgPLylYrO-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-2" value="Board &lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-2" value="Board &lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5A80CC;" parent="1" vertex="1">
           <mxGeometry x="170" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-4" value="Revise&lt;br&gt;Resubmit&lt;br&gt;Future&lt;br&gt;Calls" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-4" value="Revise&lt;br&gt;Resubmit&lt;br&gt;Future&lt;br&gt;Calls" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AEC677;" parent="1" vertex="1">
           <mxGeometry x="170" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-6" target="LExHXPBAgsskgPLylYrO-16">
+        <mxCell id="LExHXPBAgsskgPLylYrO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-6" target="LExHXPBAgsskgPLylYrO-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-6" value="Full&amp;nbsp;&lt;br&gt;Proposal" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-6" value="Full&amp;nbsp;&lt;br&gt;Proposal" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AEC677;" parent="1" vertex="1">
           <mxGeometry x="330" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-14" value="Revisions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="LExHXPBAgsskgPLylYrO-15">
+        <mxCell id="LExHXPBAgsskgPLylYrO-14" value="Revisions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="LExHXPBAgsskgPLylYrO-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="160" as="sourcePoint" />
             <Array as="points">
@@ -37,10 +37,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-15" value="Revise&lt;br&gt;Resubmit&lt;br&gt;Future&lt;br&gt;Calls" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-15" value="Revise&lt;br&gt;Resubmit&lt;br&gt;Future&lt;br&gt;Calls" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AEC677;" parent="1" vertex="1">
           <mxGeometry x="490" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-24" value="Selected Proposals" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-16" target="LExHXPBAgsskgPLylYrO-20">
+        <mxCell id="LExHXPBAgsskgPLylYrO-24" value="Selected Proposals" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LExHXPBAgsskgPLylYrO-16" target="LExHXPBAgsskgPLylYrO-20" edge="1">
           <mxGeometry x="0.2143" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="120" />
@@ -50,28 +50,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-16" value="Study&amp;nbsp;&lt;br&gt;Selection&lt;br&gt;Team&lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-16" value="Study&amp;nbsp;&lt;br&gt;Selection&lt;br&gt;Team&lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5A80CC;" parent="1" vertex="1">
           <mxGeometry x="490" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-20" target="LExHXPBAgsskgPLylYrO-25">
+        <mxCell id="LExHXPBAgsskgPLylYrO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-20" target="LExHXPBAgsskgPLylYrO-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-20" value="Pre&lt;br&gt;Study Completion&lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-20" value="Pre&lt;br&gt;Study Completion&lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5A80CC;" parent="1" vertex="1">
           <mxGeometry x="10" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-25" target="LExHXPBAgsskgPLylYrO-27">
+        <mxCell id="LExHXPBAgsskgPLylYrO-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-25" target="LExHXPBAgsskgPLylYrO-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-25" value="Pre&lt;br&gt;Registration" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-25" value="Pre&lt;br&gt;Registration" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5BC9CE;" parent="1" vertex="1">
           <mxGeometry x="170" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-27" target="LExHXPBAgsskgPLylYrO-29">
+        <mxCell id="LExHXPBAgsskgPLylYrO-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-27" target="LExHXPBAgsskgPLylYrO-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-27" value="Recruitment&lt;br&gt;Collaborators" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-27" value="Recruitment&lt;br&gt;Collaborators" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5BC9CE;" parent="1" vertex="1">
           <mxGeometry x="330" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-29" target="LExHXPBAgsskgPLylYrO-31">
+        <mxCell id="LExHXPBAgsskgPLylYrO-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-29" target="LExHXPBAgsskgPLylYrO-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="530" />
@@ -79,29 +79,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-29" value="Data Collection" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-29" value="Data Collection" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5BC9CE;" parent="1" vertex="1">
           <mxGeometry x="490" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-31" target="LExHXPBAgsskgPLylYrO-33">
+        <mxCell id="LExHXPBAgsskgPLylYrO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-31" target="LExHXPBAgsskgPLylYrO-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-31" value="Manuscript&lt;br&gt;Write Up" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-31" value="Manuscript&lt;br&gt;Write Up" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5BC9CE;" parent="1" vertex="1">
           <mxGeometry x="10" y="550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-33" target="LExHXPBAgsskgPLylYrO-35">
+        <mxCell id="LExHXPBAgsskgPLylYrO-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-33" target="LExHXPBAgsskgPLylYrO-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-33" value="Post&lt;br&gt;Study&amp;nbsp;&lt;br&gt;Completion&lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-33" value="Post&lt;br&gt;Study&amp;nbsp;&lt;br&gt;Completion&lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5A80CC;" parent="1" vertex="1">
           <mxGeometry x="170" y="550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LExHXPBAgsskgPLylYrO-35" target="LExHXPBAgsskgPLylYrO-37">
+        <mxCell id="LExHXPBAgsskgPLylYrO-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LExHXPBAgsskgPLylYrO-35" target="LExHXPBAgsskgPLylYrO-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-35" value="Collaborator&lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-35" value="Collaborator&lt;br&gt;Review" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5BC9CE;" parent="1" vertex="1">
           <mxGeometry x="330" y="550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExHXPBAgsskgPLylYrO-37" value="Submission" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LExHXPBAgsskgPLylYrO-37" value="Submission" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5BC9CE;" parent="1" vertex="1">
           <mxGeometry x="490" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uGD3Mq-v9OKubHT-8KZn-1" value="Submitting&lt;br&gt;Authors" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AEC677;" vertex="1" parent="1">
+          <mxGeometry x="650" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uGD3Mq-v9OKubHT-8KZn-2" value="Lead Authors&lt;br&gt;+&lt;br&gt;ML Team" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5BC9CE;" vertex="1" parent="1">
+          <mxGeometry x="650" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uGD3Mq-v9OKubHT-8KZn-3" value="Many&lt;br&gt;Languages&lt;br&gt;Committees" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5A80CC;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
