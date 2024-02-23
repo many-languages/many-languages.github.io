@@ -31,19 +31,7 @@ All individuals are invited for membership in ManyLanguages. To be considered a 
 
 -   **Role**: The leadership team will meet at least monthly to discuss current goals, issues, projects, or other topics as needed as set by the current chair. They are responsible for the day-to-day organisation and maintenance of the network including updates to policies, convening ad hoc committees, troubleshooting issues brought by members, membership portal maintenance, and more.
 
-The current leadership team consists of:
-
--   Timo Roettger (Chair)
-
--   Erin M. Buchanan
-
--   Zed Sehyr
-
--   Cong Zhang
-
--   Masoud Jafarali Jasbi
-
--   Indranil Dutta
+-   Check out the current leadership on the [about](about.html) page.
 
 ## Committees
 

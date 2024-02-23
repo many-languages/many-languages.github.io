@@ -21,3 +21,19 @@ title: "About ManyLanguages"
 -   ManyLanguages organises expert feedback on different stages of supported projects. For example, a pre-study review committee can give feedback on project proposals which helps improve proposals at the initial stages of a project. A post-study review committee can help ensure that all results of the research activity (e.g. data, scripts, materials, meta-data) are transparently shared in a consistent and user-friendly way. 
 
 Please use this [form](https://forms.gle/9mHjddrMFGzJzVLa8) to give feedback to the community about our policies, website, or any other thoughts.
+
+## Current Leadership
+
+The current leadership team consists of:
+
+-   Timo Roettger (Chair)
+
+-   Erin M. Buchanan
+
+-   Zed Sehyr
+
+-   Cong Zhang
+
+-   Masoud Jafarali Jasbi
+
+-   Indranil Dutta
