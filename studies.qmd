@@ -14,11 +14,11 @@ Replicating Experimental Linguistic Phenomena across ManyLanguages 
 
 A two-page Expression-of-Interest statement is due on the 31st of May 2025. 
 
-The deadline for the submission of Full Proposals will be the 31st of September 2024. See other deadlines at the bottom of this document.
+The deadline for the submission of Full Proposals will be the 15th of September 2025. See other deadlines at the bottom of this document.
 
 # Overview
 
-ManyLanguages welcomes study proposals to experimentally test the generalizability of linguistic phenomena. We provide [some examples of large scale studies on Canvas ](https://canvas.psysciacc.org/courses/19/pages/big-team-language-sciences-examples)with the special note that this list should not indicate the breadth or focus of what we are looking for - very few of these exist that we are aware of, so we want to solicit studies! 
+ManyLanguages welcomes study proposals to experimentally test the generalizability of linguistic phenomena. We provide [some examples of large scale studies on Canvas](https://canvas.psysciacc.org/courses/19/pages/big-team-language-sciences-examples) with the special note that this list should not indicate the breadth or focus of what we are looking for - very few of these exist that we are aware of, so we want to solicit studies! 
 
 ManyLanguages is a globally distributed network of language science laboratories that coordinates data collection for democratically selected studies. Our mission is to facilitate the connection between language science researchers to diversify the languages, participants, researchers, and projects represented in the language sciences. We will facilitate the collection of evidence across the language sciences by supporting a distributed laboratory network that is ongoing, diverse, and inclusive. We embrace open science principles by sharing collected data, materials, translations, and other research outputs from the network. We strive to engage research across a broad spectrum of language sciences creating an inclusive and diverse environment for ideas, investigation, and participation.
 
@@ -32,9 +32,9 @@ ManyLanguages is a globally distributed network of language science laboratories
 
 ## Overview of selection and study process
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZ9C2kgarqfatBxeKLbR5G8yvgMXaEOZQkXb-ziacaFqNHoCIopJpLVbQBn1KvRqbujia7tJUBGLWRMCpRaszqfJmvU54cz65KS6n_YCs5TDv9ReTSa3UVFS6L8Bz4X5qgw7znzg?key=usqU-oMxVGuCB_uVw96FHlOA)
-
-\
+```{r echo=FALSE}
+knitr::include_graphics("figs/study_flow.png")
+```
 
 # Proposal Selection
 
@@ -140,11 +140,15 @@ To submit a study, you should first join the ManyLanguages member website to off
 
 You will submit your proposal manuscript (once with cover page, once with masked cover page) using the Canvas online system. You can use this [direct link](https://canvas.psysciacc.org/courses/19/assignments/490) (you must be logged in for this link to work). You can find the current call for studies on the Modules page: 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJ2VtILBr3R9eH9IIEkZRGe386O4Qbg5GS1PI_QG-aH8PxBBKwk9q6jJvtUBrYscyTWkYuQCAvO8YA6GlJ_dRrTLjlNg6fd3ZBsteaOuR67BTWQz24ObLFEw8QxLa6eWZmXlcjkg?key=usqU-oMxVGuCB_uVw96FHlOA)
+```{r echo=FALSE}
+knitr::include_graphics("figs/canvas_1.png")
+```
 
 To start \> click Submit Assignment:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXddYb5P5IohPmNbAi6H5YqJcPtEmANvYtu_TYHPhDwFBn-hm5niPPC-6FEXjpArkR21nu_jT-Ic9ygE_wGc-rgthg03UkqImvRE16x841q8Xhg5T_hWnQ3fN8CeMnqLD9MqOH4_?key=usqU-oMxVGuCB_uVw96FHlOA)
+```{r echo=FALSE}
+knitr::include_graphics("figs/canvas_2.png")
+```
 
 Click \>\>Choose file\<\< to upload files.
 
