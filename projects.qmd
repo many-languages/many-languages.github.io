@@ -1,0 +1,12 @@
+---
+title: "Projects"
+---
+
+## Many Tones
+
+Variations in onset fundamental frequency (f0) of vowels have been systematically found to be influenced by the laryngeal states of adjacent consonants — the onset f0 of a vowel is higher following a voiceless compared to a voiced obstruent. This phenomenon, the consonant-related f0 perturbation (CF0), has been considered to be a key source of tonogenesis. Previous findings on phonetic explanations of tonal development include listeners’ ability to detect small CF0 perturbations, use of f0 perturbations as cues for laryngeal contrasts, and the emergence of f0 perturbations as primary cues when other consonantal cues diminish. Despite extensive acoustic and perceptual studies, the understanding of CF0 perception remains limited. This project aims to investigate the perception of minimal perceptible f0
+perturbations, both in magnitude and timing, over many languages, and to gain insights on dynamic pitch perception in speech. Additionally, we propose to explore the effects of language background and musical training on CF0 perception. In this proposal, we detail the plans for developing and deploying an online framework for large-scale CF0 perception data that can be made use of by speech laboratories across the globe so as to enrich our knowledge of CF0 informed by many languages.
+
+-   Email to reach the team: [manytones\@many-languages.com](mailto:manytones@many-languages.com)
+
+-   [Website](https://chenchenzi.github.io/manytones/)

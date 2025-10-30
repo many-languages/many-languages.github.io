@@ -235,12 +235,47 @@
     "href": "about.html#current-leadership",
     "title": "About ManyLanguages",
     "section": "Current Leadership",
-    "text": "Current Leadership\nThe current leadership team consists of:\n\nTimo Roettger (Chair)\nErin M. Buchanan\nZed Sehyr\nCong Zhang\nIndranil Dutta\nOnur Özsoy\nSimona Amenta\nMatthew Faytak"
+    "text": "Current Leadership\nThe current leadership team consists of:\n\nTimo B. Roettger (Director)\nErin M. Buchanan (Deputy Director, Infrastructure Lead)\nZed Sehyr (Education Co-Lead)\nOnur Özsiy (Education Co-Lead)\nIndranil Dutta (Outreach Co-Lead)\nMatthew Faytak (Outreach Co-Lead)\nCong Zhang (Community Manager)\nSimona Amenta (Project Coordinator)"
   },
   {
     "objectID": "studies.html#overview-of-selection-and-study-process",
     "href": "studies.html#overview-of-selection-and-study-process",
     "title": "Studies",
+    "section": "Overview of selection and study process",
+    "text": "Overview of selection and study process"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Variations in onset fundamental frequency (f0) of vowels have been systematically found to be influenced by the laryngeal states of adjacent consonants — the onset f0 of a vowel is higher following a voiceless compared to a voiced obstruent. This phenomenon, the consonant-related f0 perturbation (CF0), has been considered to be a key source of tonogenesis. Previous findings on phonetic explanations of tonal development include listeners’ ability to detect small CF0 perturbations, use of f0 perturbations as cues for laryngeal contrasts, and the emergence of f0 perturbations as primary cues when other consonantal cues diminish. Despite extensive acoustic and perceptual studies, the understanding of CF0 perception remains limited. This project aims to investigate the perception of minimal perceptible f0 perturbations, both in magnitude and timing, over many languages, and to gain insights on dynamic pitch perception in speech. Additionally, we propose to explore the effects of language background and musical training on CF0 perception. In this proposal, we detail the plans for developing and deploying an online framework for large-scale CF0 perception data that can be made use of by speech laboratories across the globe so as to enrich our knowledge of CF0 informed by many languages.\n\nEmail to reach the team: manytones@many-languages.com\nWebsite"
+  },
+  {
+    "objectID": "projects.html#many-tones",
+    "href": "projects.html#many-tones",
+    "title": "Projects",
+    "section": "",
+    "text": "Variations in onset fundamental frequency (f0) of vowels have been systematically found to be influenced by the laryngeal states of adjacent consonants — the onset f0 of a vowel is higher following a voiceless compared to a voiced obstruent. This phenomenon, the consonant-related f0 perturbation (CF0), has been considered to be a key source of tonogenesis. Previous findings on phonetic explanations of tonal development include listeners’ ability to detect small CF0 perturbations, use of f0 perturbations as cues for laryngeal contrasts, and the emergence of f0 perturbations as primary cues when other consonantal cues diminish. Despite extensive acoustic and perceptual studies, the understanding of CF0 perception remains limited. This project aims to investigate the perception of minimal perceptible f0 perturbations, both in magnitude and timing, over many languages, and to gain insights on dynamic pitch perception in speech. Additionally, we propose to explore the effects of language background and musical training on CF0 perception. In this proposal, we detail the plans for developing and deploying an online framework for large-scale CF0 perception data that can be made use of by speech laboratories across the globe so as to enrich our knowledge of CF0 informed by many languages.\n\nEmail to reach the team: manytones@many-languages.com\nWebsite"
+  },
+  {
+    "objectID": "calls.html",
+    "href": "calls.html",
+    "title": "Call for Projects",
+    "section": "",
+    "text": "Check out our current call for studies (Google Docs Version).\nReplicating Experimental Linguistic Phenomena across ManyLanguages"
+  },
+  {
+    "objectID": "calls.html#call-for-studies",
+    "href": "calls.html#call-for-studies",
+    "title": "Call for Projects",
+    "section": "",
+    "text": "Check out our current call for studies (Google Docs Version).\nReplicating Experimental Linguistic Phenomena across ManyLanguages"
+  },
+  {
+    "objectID": "calls.html#overview-of-selection-and-study-process",
+    "href": "calls.html#overview-of-selection-and-study-process",
+    "title": "Call for Projects",
     "section": "Overview of selection and study process",
     "text": "Overview of selection and study process"
   }

@@ -11,8 +11,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: studies.qmd
-        text: Studies
+      - text: Projects
+        menu: 
+          - href: calls.qmd
+            text: Call for Projects
+          - href: projects.qmd
+            text: Projects
       - href: https://forms.gle/9mHjddrMFGzJzVLa8
         text: Feedback
       - text: Membership
