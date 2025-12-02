@@ -11,7 +11,7 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - text: Projects
+      - text: Studies
         menu: 
           - href: calls.qmd
             text: Call for Projects
