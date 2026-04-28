@@ -1,0 +1,11 @@
+---
+title: "Collaborations"
+---
+
+# Psychological Science Accelerator
+
+The PSA supports ManyLanguages through their infrastructure and general guidance on projects and big team science. Check them out here: https://psysciacc.org/.
+
+# ManyNorms
+
+ManyNorms is a community of researchers interested in lexical and normed databases: how to run studies, how to identify published databases, how to compare them, and more. If you are interested in joining us, please email [many-languages at googlegroups dot com](mailto:many-languages@googlegroups.com) with ManyNorms in the title. We will add you to our slack community and inform you about upcoming meetings. For an example of a type of project we might work on, check out: [a database and comparison of familiarity norms](https://osf.io/7wmzq/overview).

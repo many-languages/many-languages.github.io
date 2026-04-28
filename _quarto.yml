@@ -11,6 +11,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: collabs.qmd
+        text: Collaborations
       - text: Studies
         menu: 
           - href: calls.qmd
