@@ -46,6 +46,9 @@ format:
     toc: true
     toc-depth: 4
     toc-title: Contents
+    grid:
+      body-width: 1000px
+      margin-width: 250px
 
 editor: visual
 
